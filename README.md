@@ -12,3 +12,7 @@ YDKE is an encoding for Yu-Gi-Oh decklists.
 Format:
 ydke://Main Deck!Extra Deck!Side Deck  
 Each deck is a base64 encoded list of 32-Bit Integer Card ids.
+
+## Template Plugin
+
+This plugin was developed starting from the Template Plugin at https://github.com/obsidianmd/obsidian-sample-plugin
